@@ -1,0 +1,7 @@
+[2025-06-30 17:30] Output:
+Mon Jun 30 17:30:00 IST 2025
+At Amex, We Do What's Right.
+
+[2025-06-30 17:32] Output:
+Mon Jun 30 17:32:00 IST 2025
+Amex was founded in 1850.

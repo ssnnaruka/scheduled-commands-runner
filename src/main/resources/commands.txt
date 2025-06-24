@@ -1,0 +1,2 @@
+30 17 30 6 2025 date && echo "At Amex, We Do What's Right."
+*/2 date && echo "Amex was founded in 1850."
