@@ -1,8 +1,8 @@
-package com.amex.scheduler.service;
+package com.scheduler.service;
 
-import com.amex.scheduler.model.Command;
-import com.amex.scheduler.factory.CommandFactory;
-import com.amex.scheduler.util.FileUtil;
+import com.scheduler.model.Command;
+import com.scheduler.factory.CommandFactory;
+import com.scheduler.util.FileUtil;
 
 import java.io.IOException;
 import java.time.LocalDateTime;

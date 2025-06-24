@@ -1,6 +1,6 @@
-package com.amex.scheduler;
+package com.scheduler;
 
-import com.amex.scheduler.service.SchedulerService;
+import com.scheduler.service.SchedulerService;
 
 public class Main {
     public static void main(String[] args) {

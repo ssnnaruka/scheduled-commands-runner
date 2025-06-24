@@ -1,4 +1,4 @@
-package com.amex.scheduler.service;
+package com.scheduler.service;
 
 
 import org.junit.jupiter.api.Test;

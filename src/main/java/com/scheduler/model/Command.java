@@ -1,4 +1,4 @@
-package com.amex.scheduler.model;
+package com.scheduler.model;
 
 import java.time.LocalDateTime;
 

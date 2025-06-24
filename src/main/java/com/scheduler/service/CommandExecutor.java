@@ -1,4 +1,4 @@
-package com.amex.scheduler.service;
+package com.scheduler.service;
 
 import java.io.BufferedReader;
 import java.io.IOException;

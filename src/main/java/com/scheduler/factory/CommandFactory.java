@@ -1,8 +1,8 @@
-package com.amex.scheduler.factory;
+package com.scheduler.factory;
 
-import com.amex.scheduler.model.Command;
-import com.amex.scheduler.model.OneTimeCommand;
-import com.amex.scheduler.model.RecurringCommand;
+import com.scheduler.model.Command;
+import com.scheduler.model.OneTimeCommand;
+import com.scheduler.model.RecurringCommand;
 
 public class CommandFactory {
     public static Command getCommand(String line) {
